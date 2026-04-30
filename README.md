@@ -11,8 +11,8 @@ To date my best project is `ConnectionsBench` which shows off my Python skill an
 You will also see some examples of old University work, and a repo called `ArchiveAvenue` where I share useful code that for whatever reason has no clear project to live in.
 
 🗺️ What are you planning to work on?
-I intend to continue progressing `ConnectionsBench` into a fully fledged Large language Model benchmark complete with written article, paper and leaderboard.
-Following this, I have some ideas for TypeScript react apps I can build including a portfolipo site where a RAG chatbot can answer questions about the projects I've worked on. A mini-me!
+I intend to continue progressing `ConnectionsBench` into a fully fledged Large Language Model (LLM) benchmark complete with written article, paper and leaderboard.
+Following this, I have some ideas for TypeScript React apps I can build including a portfolio site where a RAG chatbot can answer questions about the projects I've worked on. A mini-me!
 
 📫 You can reach me best at romancollinge@outlook.com
 
