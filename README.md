@@ -6,7 +6,9 @@
 
 👤 I'm an AI Engineer and Technical Advisor at JBA Consulting. I specialise in designing, developing and deploying Generative AI solutions that produce real business value.
 
-🤔 Where is all your work? Well, my GitHub account is evidently a little sparse at the minute! The majority of my coding in working hours is managed via Azure DevOps, so over the coming months, I intend to improve my presence across Github, LinkedIn and other relevant social media platforms. I will do so by sharing work I have completed as part of my BSc in Data Science, as well as by sharing work I'm doing in my own time.
+🤔 What work have you done?
+To date my best project is `ConnectionsBench` which shows off my Python skill and ability to perform research across NLP techniques and LLM testing. Using TDD (for applicable features) it is tested and effective.
+You will also see some examples of old University work, and a repo called `ArchiveAvenue` where I share useful code that for whatever reason has no clear project to live in.
 
 📫 You can reach me best at romancollinge@outlook.com
 
