@@ -10,6 +10,10 @@
 To date my best project is `ConnectionsBench` which shows off my Python skill and ability to perform research across NLP techniques and LLM testing. Using TDD (for applicable features) it is tested and effective.
 You will also see some examples of old University work, and a repo called `ArchiveAvenue` where I share useful code that for whatever reason has no clear project to live in.
 
+🗺️ What are you planning to work on?
+I intend to continue progressing `ConnectionsBench` into a fully fledged Large language Model benchmark complete with written article, paper and leaderboard.
+Following this, I have some ideas for TypeScript react apps I can build including a portfolipo site where a RAG chatbot can answer questions about the projects I've worked on. A mini-me!
+
 📫 You can reach me best at romancollinge@outlook.com
 
 ♟️ Or by challenging me on [Lichess](https://lichess.org) at 'rodacoll'
